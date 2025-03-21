@@ -1,0 +1,1 @@
+SELECT calisan_birim_id, Count(calisan_birim_id) FROM Calisan GROUP BY calisan_birim_id
